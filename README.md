@@ -1,6 +1,8 @@
 ## I am a student that plays video games and codes in python his my free time
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtails&label=Profile%20views&color=0e75b6&style=flat" alt="iamtails" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamtails" alt="iamtails" /></a> </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoyDownTown&show_icons=true&layout=compact&theme=dark&count_private=true" width="512" />
     </a>
 <br/>
