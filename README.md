@@ -4,7 +4,7 @@
 [![Red-DiscordBot](https://img.shields.io/badge/Red--DiscordBot-V3-red.svg)](https://github.com/Cog-Creators/Red-DiscordBot)
 
 ### Projects
-I work on various projects in my spare time. These projects are mostly relating to Red-DiscordBot and my public bot [Kami](https://www.dsc.gg/kamibot "Kami's Invite"). My main projects are listed as so:
+I work on various projects in my spare time. These projects are mostly relating to Red-DiscordBot and my public bot [Izumi](https://www.dsc.gg/izumi "Izumi's Invite"). My main projects are listed as so:
 
 - onii-cogs - Various cogs for Red-DiscordBot
 
