@@ -1,6 +1,6 @@
 # Onii-chan
 
-[![discord](https://img.shields.io/badge/Discord-Onii-chan%233920-7289DA?logo=discord&style=for-the-badgel)]("https://dsc.gg/izumisupport")
+[![discord](https://img.shields.io/badge/Discord-Onii-chan%3920-7289DA?logo=discord&style=for-the-badgel)]("https://dsc.gg/izumisupport")
 [![Red-DiscordBot](https://img.shields.io/badge/Red--DiscordBot-V3-red.svg)](https://github.com/Cog-Creators/Red-DiscordBot)
 
 ### Projects
