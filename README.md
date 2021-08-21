@@ -24,3 +24,7 @@ I work on various projects in my spare time. These projects are mostly relating 
     <img align="left" width="512" src="https://github-readme-stats.vercel.app/api?username=Onii-Chan-Discord&show_icons=true&theme=dark&count_private=true" />
 </a>
 <br/>
+
+    
+JETBRAINS:
+    15082021/7588007
