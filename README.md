@@ -25,6 +25,3 @@ I work on various projects in my spare time. These projects are mostly relating 
 </a>
 <br/>
 
-    
-JETBRAINS:
-    15082021/7588007
