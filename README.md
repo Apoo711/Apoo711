@@ -1,27 +1,43 @@
-# Onii-chan
+# ＼(＾▽＾*) Hello!
+<div align="center"><img src="https://cdn.discordapp.com/attachments/859335247547990026/882593696934154240/cool_background_thing_lol.gif"></div>
 
-[![discord](https://img.shields.io/badge/Discord-Onii-chan%3920-7289DA?logo=discord&style=for-the-badgel)]("https://dsc.gg/izumisupport")
-[![Red-DiscordBot](https://img.shields.io/badge/Red--DiscordBot-V3-red.svg)](https://github.com/Cog-Creators/Red-DiscordBot)
+# 👋 I'm Nirlep
 
-### Projects
-I work on various projects in my spare time. These projects are mostly relating to Red-DiscordBot and my public bot [Izumi](https://www.dsc.gg/izumi "Izumi's Invite"). My main projects are listed as so:
+I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-- onii-cogs - Various cogs for Red-DiscordBot
+- I'm currently working on [**Hibiki**](https://hibikibot.cf)
+- I have been programming for 1 year!
+- I still don't know what I am doing.
+- Help.
 
-#### Contact Me
-- Discord: Onii-chan#3920
+### Technologies that I know!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtails&label=Profile%20views&color=0e75b6&style=flat" alt="iamtails" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamtails" alt="iamtails" </p>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamtails&" alt="iamtails" /></p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onii-Chan-Discord&show_icons=true&layout=compact&theme=dark&count_private=true" width="512" />
-    </a>
-<br/>
-<p>
-</p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" width="512" src="https://github-readme-stats.vercel.app/api?username=Onii-Chan-Discord&show_icons=true&theme=dark&count_private=true" />
-</a>
-<br/>
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)&nbsp;
 
+### My Github statistics!
+
+<details>
+  <summary>Click to reveal</summary>
+  <div>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Onii-Chan-Discord&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onii-Chan-Discord&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onii-Chan-Discord&theme=radical">
+  </div>
+</details>
+
+### Contact me
+
+<a href="https://discord.com/users/741291562687922329"><img height="50px" src="https://cdn.discordapp.com/attachments/859335247547990026/902790616864415744/discord_logo.png" />
+
+### Thank you for viewing my profile!
+
+#### 🎨 Art by **[Kirokaze](https://kirokazepixel.tumblr.com/)**
