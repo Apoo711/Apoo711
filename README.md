@@ -39,5 +39,7 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
 <a href="https://discord.com/users/741291562687922329"><img height="50px" src="https://cdn.discordapp.com/attachments/859335247547990026/902790616864415744/discord_logo.png" />
 
 ### Thank you for viewing my profile!
+  
+<div align="center"><img src="https://cdn.discordapp.com/attachments/859335247547990026/882593069206229012/my_life.gif"></div>
 
 #### 🎨 Art by **[Kirokaze](https://kirokazepixel.tumblr.com/)**
