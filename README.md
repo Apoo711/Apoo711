@@ -5,8 +5,8 @@
 
 I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-- I'm currently working on [**Hibiki**](https://hibikibot.cf)
-- I have been programming for 2 years!
+- I'm currently working on [**MeiChan**](https://meichan.cf)
+- I have been programming for 3 years!
 - I still don't know what I am doing.
 - Help.
 
