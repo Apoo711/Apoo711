@@ -1,11 +1,11 @@
 # ＼(＾▽＾*) Hello!
 <div align="center"><img src="https://cdn.discordapp.com/attachments/859335247547990026/882593696934154240/cool_background_thing_lol.gif"></div>
 
-# 👋 I'm Onii-Chan
+# 👋 I'm Onii-Chan (AKA Chii-Onan)
 
 I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-- I'm currently working on [**MeiChan**](https://meichan.cf)
+- I'm currently working on [**Mei-Chan**](https://meichan.cf)
 - I have been programming for 3 years!
 - I still don't know what I am doing.
 - Help.
