@@ -29,9 +29,9 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
   <summary>Click to reveal</summary>
   <div>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Onii-Chan-Discord&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onii-Chan-Discord&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onii-Chan-Discord&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=Chii-Onan&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chii-Onan&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chii-Onan&theme=radical">
   </div>
 </details>
 
