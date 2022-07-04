@@ -5,8 +5,8 @@
 
 I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-- I'm currently working on [**Mei-Chan**](https://meichan.cf)
-- I have been programming since <time datetime="2020-8-14 12:00">August 14 2020</time>!
+- I'm currently working on **Ayano**
+- I have been programming since <time datetime="2020-8-14 12:00">August 14 2020</time>!</p>
 - I still don't know what I am doing.
 - Help.
 
@@ -38,7 +38,7 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
 
 ### Contact me
 
-<a href="https://discord.com/users/741291562687922329"><img height="50px" src="https://cdn.discordapp.com/attachments/859335247547990026/902790616864415744/discord_logo.png" />
+<a href="https://discord.com/users/741291562687922329"><img height="50px" src="https://banner2.cleanpng.com/20180612/fyt/kisspng-computer-icons-discord-logo-judgment-apocalypse-s-discord-5b1fbec28d2869.7753029015288071065782.jpg" />
 
 ### Thank you for viewing my profile!
   
