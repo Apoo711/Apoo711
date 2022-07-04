@@ -1,5 +1,5 @@
 # ＼(＾▽＾*) Hello!
-<div align="center"><img src="https://cdn.discordapp.com/attachments/859335247547990026/882593696934154240/cool_background_thing_lol.gif"></div>
+<div align="center"><img src="https://64.media.tumblr.com/6d3b7d2b02f5a1beb74e0a83168e62bd/25be405c6e525ddd-6f/s1280x1920/bf25201f99365641cd6e269aa0b7fc4b81e0926f.gifv"></div>
 
 # 👋 I'm Onii-Chan (AKA Chii-Onan)
 
@@ -42,6 +42,6 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
 
 ### Thank you for viewing my profile!
   
-<div align="center"><img src="https://cdn.discordapp.com/attachments/859335247547990026/882593069206229012/my_life.gif"></div>
+<div align="center"><img src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gifv"></div>
 
 #### 🎨 Art by **[Kirokaze](https://kirokazepixel.tumblr.com/)**
