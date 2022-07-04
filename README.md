@@ -6,7 +6,7 @@
 I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - I'm currently working on [**Mei-Chan**](https://meichan.cf)
-- I have been programming for 3 years!
+- I have been programming since <time datetime="2020-8-14 12:00">August 14 2020</time>!
 - I still don't know what I am doing.
 - Help.
 
