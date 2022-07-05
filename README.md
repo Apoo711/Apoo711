@@ -40,7 +40,7 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
 
 ### Contact me
 
-<a href="https://discord.com/users/741291562687922329"><img height="50px" src="https://banner2.cleanpng.com/20180612/fyt/kisspng-computer-icons-discord-logo-judgment-apocalypse-s-discord-5b1fbec28d2869.7753029015288071065782.jpg" />
+<a href="https://discord.com/users/741291562687922329"><img height="50px" src="https://discord.com/assets/2d20a45d79110dc5bf947137e9d99b66.svg" />
 
 ### Thank you for viewing my profile!
   
