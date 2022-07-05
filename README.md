@@ -23,6 +23,8 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-Postgresql-05122A?style=for-the-badge&logo=PostgreSQL)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=for-the-badge&logo=Redis)&nbsp;
 
 ### My Github statistics!
 
