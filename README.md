@@ -12,6 +12,7 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
 
 ### Technologies that I know!
 
+![Git](https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&logo=rust)&nbsp;
 ![Git](https://img.shields.io/badge/-CSharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
