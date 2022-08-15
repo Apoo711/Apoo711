@@ -5,7 +5,7 @@
 
 I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-- I'm currently working on **Ayano**
+- I'm currently working on [**Ayano**](https://github.com/Ayano-Discord/Ayano)
 - I have been programming for 3 years!
 - I still don't know what I am doing.
 - Help.
