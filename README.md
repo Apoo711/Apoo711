@@ -33,10 +33,11 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
   <div>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Chii-Onan&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
   </div>
 </details>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Contact me
 
