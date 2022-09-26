@@ -6,14 +6,15 @@
 I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - I'm currently working on [**Ayano**](https://github.com/Ayano-Discord/Ayano)
-- I have been programming for 3 years!
-- I still don't know what I am doing.
-- Help.
+- I am Indian! (This automatically makes me better at tech than you!)
+- I think of great ideas but never implement them! *But like, who doesn't do that?*
+- I love to read manga, watch anime and play games in my free time... I know I'm a failure...
+- Help...
 
 ### Technologies that I know!
 
 ![Git](https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&logo=rust)&nbsp;
-![Git](https://img.shields.io/badge/-CSharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
+![Rust](https://img.shields.io/badge/-CSharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&logo=kotlin)&nbsp;
@@ -22,9 +23,10 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-Postgresql-05122A?style=for-the-badge&logo=PostgreSQL)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=for-the-badge&logo=Redis)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=Linux)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=Windows)&nbsp;
 
 ### My Statistics!
 
