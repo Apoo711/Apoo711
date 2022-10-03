@@ -38,16 +38,16 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
     <!--START_SECTION:waka-->
 
 ```text
-From: 15 August 2021 - To: 30 September 2022
+From: 15 August 2021 - To: 01 October 2022
 
-Total Time: 196 hrs 39 mins
+Total Time: 199 hrs 37 mins
 
-Kotlin             98 hrs 25 mins  >>>>>>>>>>>>>------------   50.05 %
-Python             32 hrs 30 mins  >>>>---------------------   16.53 %
-Rust               20 hrs 4 mins   >>>----------------------   10.21 %
-C#                 15 hrs 29 mins  >>-----------------------   07.87 %
-YAML               3 hrs 27 mins   -------------------------   01.76 %
-Other              3 hrs 19 mins   -------------------------   01.69 %
+Kotlin             98 hrs 25 mins  >>>>>>>>>>>>-------------   49.30 %
+Python             32 hrs 32 mins  >>>>---------------------   16.30 %
+Rust               20 hrs 4 mins   >>>----------------------   10.06 %
+C#                 18 hrs 2 mins   >>-----------------------   09.04 %
+YAML               3 hrs 27 mins   -------------------------   01.73 %
+Other              3 hrs 19 mins   -------------------------   01.67 %
 ```
 
 <!--END_SECTION:waka-->
