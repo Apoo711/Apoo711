@@ -27,6 +27,7 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=for-the-badge&logo=Redis)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=Linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=Windows)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React)&nbsp;
 
 ### My Statistics!
 
