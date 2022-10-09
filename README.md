@@ -1,5 +1,5 @@
 # ＼(＾▽＾*) Hello!
-<div align="center"><img src="https://64.media.tumblr.com/6d3b7d2b02f5a1beb74e0a83168e62bd/25be405c6e525ddd-6f/s1280x1920/bf25201f99365641cd6e269aa0b7fc4b81e0926f.gifv"></div>
+[![@oniichan's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@oniichan)
 
 # 👋 I'm Onii-Chan (AKA Chii-Onan)
 
@@ -60,7 +60,9 @@ Other              3 hrs 32 mins   -------------------------   01.75 %
 <a href="https://discord.com/users/741291562687922329"><img height="50px" src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" />
 
 # Thank you for viewing my profile!
+
+<div align="center"><img src="https://64.media.tumblr.com/6d3b7d2b02f5a1beb74e0a83168e62bd/25be405c6e525ddd-6f/s1280x1920/bf25201f99365641cd6e269aa0b7fc4b81e0926f.gifv"></div>
   
-<div align="center"><img src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gifv"></div>
+[comment]: # <div align="center"><img src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gifv"></div>
 
 #### 🎨 Art by **[Kirokaze](https://kirokazepixel.tumblr.com/)**
