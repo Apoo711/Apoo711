@@ -1,5 +1,5 @@
 # ＼(＾▽＾*) Hello!
-[![@oniichan's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@oniichan)
+[![@oniichan's Holopin board](https://holopin.io/api/user/board?user=oniichan)](https://holopin.io/@oniichan)
 
 # 👋 I'm Onii-Chan (AKA Chii-Onan)
 
