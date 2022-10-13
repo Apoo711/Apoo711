@@ -39,7 +39,7 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
     <!--START_SECTION:waka-->
 
 ```text
-From: 15 August 2021 - To: 10 October 2022
+From: 15 August 2021 - To: 11 October 2022
 
 Total Time: 202 hrs 58 mins
 
