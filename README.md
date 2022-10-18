@@ -26,6 +26,7 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=JavaScript)&nbsp;
 ![Deno](https://img.shields.io/badge/-Deno-05122A?style=for-the-badge&logo=Deno)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=TypeScript)&nbsp;
 
 ### My Statistics!
 
