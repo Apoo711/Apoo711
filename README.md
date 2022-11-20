@@ -30,6 +30,7 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
 
 ### My Statistics!
 
+#### Weekly Coding Stats
 <div>
   <br>
   <!--START_SECTION:waka-->
