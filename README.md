@@ -38,16 +38,13 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
     <!--START_SECTION:waka-->
 
 ```text
-From: 15 August 2021 - To: 18 November 2022
+From: 12 November 2022 - To: 19 November 2022
 
-Total Time: 209 hrs 10 mins
+Total Time: 2 hrs 27 mins
 
-Kotlin             98 hrs 25 mins  >>>>>>>>>>>>-------------   47.05 %
-Python             32 hrs 58 mins  >>>>---------------------   15.77 %
-Rust               20 hrs 4 mins   >>-----------------------   09.60 %
-C#                 19 hrs 49 mins  >>-----------------------   09.48 %
-TypeScript         5 hrs 27 mins   >------------------------   02.61 %
-YAML               3 hrs 47 mins   -------------------------   01.82 %
+TypeScript   2 hrs 1 min     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀   82.38 %
+Python       25 mins         ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.58 %
+Bash         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.03 %
 ```
 
 <!--END_SECTION:waka-->
