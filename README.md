@@ -30,11 +30,10 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
 
 ### My Statistics!
 
-<details>
-  <div>
-    <br>
-    <!--START_SECTION:waka-->
-    
+<div>
+  <br>
+  <!--START_SECTION:waka-->
+
 ```text
 From: 12 November 2022 - To: 19 November 2022
 
@@ -44,10 +43,9 @@ TypeScript   2 hrs 1 min     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 Python       25 mins         ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.58 %
 Bash         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.03 %
 ```
-    
+
 <!--END_SECTION:waka-->
-  </div>
-</details>
+</div>
 
 ### Contact me
 
