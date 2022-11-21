@@ -36,12 +36,7 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
   <!--START_SECTION:waka-->
 
 ```text
-From: 13 November 2022 - To: 20 November 2022
-
-Total Time: 12 mins
-
-Python       6 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.43 %
-TypeScript   5 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.57 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
