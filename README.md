@@ -52,4 +52,4 @@ No activity tracked
   
 [<div align="center"><img src="https://64.media.tumblr.com/c02f33ae5304790f89fb8f4b0219110f/29f483234580e193-b2/s1280x1920/ffe1a09d12961dd8d2aaeecaffff184fb92c3364.gifv"></div>]: #
 
-#### 🎨 Art by **[Kirokaze]([https://kirokazepixel.tumblr.com/])**
+#### 🎨 Art by **[Kirokaze](https://kirokazepixel.tumblr.com/)**
