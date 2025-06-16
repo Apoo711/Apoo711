@@ -5,7 +5,7 @@
 
 I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-- I'm currently working on [**Ayano**](https://github.com/Ayano-Discord/Ayano)
+- I'm currently working on [**a bunch of projects**](https://github.com/stars/Apoo711/lists/my-projects-active)
 - I am Indian! (*This automatically makes me better at tech than you!*)
 - I think of great ideas but never implement them! ~~*But like, who doesn't do that?*~~
 - I love to read manga, watch anime and play games in my free time... *I know I'm a failure...*
