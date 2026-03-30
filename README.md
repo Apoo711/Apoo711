@@ -1,7 +1,7 @@
 # ＼(＾▽＾*) Hello!
 [![@oniichan's Holopin board](https://holopin.io/api/user/board?user=oniichan)](https://holopin.io/@oniichan)
 
-# 👋 I'm Apoo711
+# 👋 I'm Aryan
 
 I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
