@@ -26,23 +26,7 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
 ![Deno](https://img.shields.io/badge/-Deno-05122A?style=for-the-badge&logo=Deno)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=TypeScript)&nbsp;
 
-### My Statistics!
-
-#### Weekly Coding Stats
-<div>
-  <br>
-  <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-</div>
-
-### Contact me
-
-<a href="https://discord.com/users/741291562687922329"><img height="50px" src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" />
+### [More About Me](https://aryan-gupta.is-a.dev/prospectus/)
 
 # Thank you for viewing my profile!
 
