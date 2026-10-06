@@ -38,7 +38,7 @@ Focus: Stochastic Systems • High-Performance Computing • Algorithmic Optimiz
 ---
 
 ### 🌐 Connect & Portfolio
-- **LinkedIn:** [Aryan Gupta](https://linkedin.com) <!-- Replace with your custom LinkedIn URL -->
+- **LinkedIn:** [Aryan Gupta](https://www.linkedin.com/in/aryangupta-au/)
 - **Prospectus & Portfolio:** [aryan-gupta.is-a.dev](https://aryan-gupta.is-a.dev/prospectus/)
 
 <br>
