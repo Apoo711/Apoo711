@@ -19,14 +19,13 @@ Focus: Stochastic Systems • High-Performance Computing • Algorithmic Optimiz
 ### 🛠️ Core Toolchain
 
 **Systems & Programming**  
+![C++](https://img.shields.io/badge/C++-05122A?style=for-the-badge&logo=c%2B%2B)
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&logo=rust)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=TypeScript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=JavaScript)
 
 **Data & Infrastructure**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL)
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=for-the-badge&logo=Redis)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
 
@@ -39,7 +38,7 @@ Focus: Stochastic Systems • High-Performance Computing • Algorithmic Optimiz
 
 ### 🌐 Connect & Portfolio
 - **LinkedIn:** [Aryan Gupta](https://www.linkedin.com/in/aryangupta-au/)
-- **Prospectus & Portfolio:** [aryan-gupta.is-a.dev](https://aryan-gupta.is-a.dev/prospectus/)
+- **Prospectus & Portfolio:** [aryan-gupta.is-a.dev](https://aryan-gupta.is-a.dev/about/)
 
 <br>
 
